@@ -1,0 +1,14 @@
+.img-thumbnail{
+    max-width: 493px;
+    max-height: 500px;
+}
+
+.figure-img {
+    max-width: 165px;
+    max-height: 165px;
+}
+
+.form-control-button{
+    margin: 5px;
+    background-color: green;
+}
